@@ -1,0 +1,29 @@
+:root{
+    --purple: #8775F5;
+    --green: #8DF562;
+    --greenlight: #CFF599;
+    --pink: #F2B5A7;
+    --light: #F2F2F2;
+}
+
+.bg-purple{background-color: var(--purple);
+}
+
+.bg-green{background-color: var(--green);
+}
+
+.bg-greenlight {
+    background-color: var(--greenlight);
+}
+
+.bg-pink {
+    background-color: var(--pink);
+}
+
+.bg-light {
+    background-color: var(--light);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
